@@ -1,5 +1,5 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 <!--Visitors Count-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrbiku001.mrbiku001" />
 
