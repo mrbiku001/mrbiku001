@@ -7,12 +7,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bikash+Kumar!;" />
 </h1>
-<h3 align="center">A passionate <span><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=75&height=20&duration=4000&lines=Web;+IoT!;" /></span> developer from India</h3>
+<h3 align="left">A passionate <span><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=75&height=20&duration=4000&lines=Web;+IoT!;" /></span> developer from India</h3>
 
 <br/>
+<div align="right">
+     <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="215px"/>
+ </div>
 
 <!--About me-->
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **e-Commerse & Professional Portfolio Websites**
  
